@@ -10,7 +10,7 @@ const MainPage = () => {
   return (
     <>
         <div>
-            
+            <Head />
             <Banner />
             <Collections />
             <Banner2 />
